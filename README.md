@@ -1,5 +1,6 @@
 # Slinger-Rockets
 Tailwindcss , Javascript , Html for Mobile Reponsive Design
+## Light mode | Dark Mode
 
 this is for educational only !!
 ### Screenshot
